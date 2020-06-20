@@ -168,7 +168,7 @@ h1,h3{
 .topic{
     font-family: 'Indie Flower', cursive,'Open Sans', sans-serif ;
     margin-top: 5px;
-    font-size: 80px;
+    font-size: 105px;
     text-align: center;
     letter-spacing: 3px;
     word-wrap: break-word;
@@ -176,7 +176,10 @@ h1,h3{
     initial-letter: capitalize;
 }
 
-
+.top-lhs h3{
+    color: #fff;
+    font-size: 25px;;
+}
 
 
 
@@ -288,9 +291,15 @@ footer p{
 
     .topic{
         /* margin-top: 5px; */
-        font-size: 35px;
+        font-size: 50px;
         text-align: center;
     }
+
+    .top-lhs h3{
+        color: #fff;
+        font-size: 16px;;
+    }
+    
 
     /* sub list items */
     main{
